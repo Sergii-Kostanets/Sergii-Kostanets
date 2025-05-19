@@ -1,8 +1,8 @@
 ﻿## Hey there, my name is Sergii Kostanets.
 
-## I'm a Web Developer at [Chill Insurance](https://Chill.ie).
+### I'm a Web Developer at [Chill Insurance](https://Chill.ie).
 
-### You can contact me by:
+#### You can contact me by:
 
 <ul>
     <li>
